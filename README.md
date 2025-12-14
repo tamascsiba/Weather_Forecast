@@ -101,3 +101,31 @@ The graph clearly demonstrates that the predicted temperature curve almost perfe
 
 ## Project Structure
 
+---
+
+## How to Run the Project
+
+### Requirements
+- Python 3.10 or newer (tested with Python 3.14)
+- Required packages:
+  - pandas
+  - numpy
+  - scikit-learn
+  - plotly
+
+### Installation
+bash
+pip install pandas numpy scikit-learn plotly
+
+### Execution
+
+Run the program from the project directory:
+
+python forecast.py
+
+### Conclusion
+
+This project demonstrates that classical machine learning techniques, combined with appropriate feature engineering, can achieve highly accurate temperature predictions using data from a local weather station. The approach is efficient, interpretable, and well-suited for short-term forecasting tasks based on high-resolution environmental measurements.
+
+The project provides a complete end-to-end pipeline, from raw sensor data collection to model training, evaluation, and visualization.
+
