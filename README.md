@@ -114,7 +114,7 @@ The graph clearly demonstrates that the predicted temperature curve almost perfe
   - plotly
 
 ### Installation
-bash
+
 pip install pandas numpy scikit-learn plotly
 
 ### Execution
