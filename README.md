@@ -4,6 +4,7 @@
 
 This project focuses on short-term temperature prediction using data collected from a self-built weather station.  
 The station continuously recorded environmental parameters such as temperature, humidity, atmospheric pressure, rainfall, UV index, wind speed, and soil moisture.
+Repository of thw Weather Station: https://github.com/tamascsiba/weather_station
 
 The dataset used for training covers the period from **November 9, 2024, to December 31, 2024**.  
 After training, the model was used to generate temperature predictions for **December 31, 2024**, and the predicted values were compared against the actual measurements.
